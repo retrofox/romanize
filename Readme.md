@@ -6,8 +6,8 @@
 ## Installation
 
 ```
-$ npm install romanize
-$ component install component/romanize
+$ npm install romanize-component
+$ component install retrofox/romanize
 ```
 
 ## API
