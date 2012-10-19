@@ -1,7 +1,9 @@
+
 /**
- * Slugize a string
+ * Convert a number in roman numeral format
  *
- * @param {String} str
+ * @param {Number} num
+ * @return {String}
  * @api public
  */
 
