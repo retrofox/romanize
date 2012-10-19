@@ -1,0 +1,13 @@
+{
+  "name": "romanize",
+  "repo": "retrofox/romanize",
+  "description": "Convert a number in roman numeral format",
+  "author": "Damian Suarez <rdsuarez@gmail.com>",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}

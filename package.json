@@ -1,0 +1,14 @@
+
+{
+  "name": "romanize-component",
+  "version": "0.1.0",
+  "description": "Convert a number in roman numeral format",
+  "author": "Damian Suarez <rdsuarez@gmail.com>",
+  "keywords": ["component", "string", "romanize"],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
