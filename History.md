@@ -1,4 +1,10 @@
 
+0.1.1 / 2012-10-24 
+==================
+
+  * deps: fix missed colon
+  * doc: fix npm install instruction
+
 0.1.0 / 2012-10-18 
 ==================
 

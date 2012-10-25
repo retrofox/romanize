@@ -4,7 +4,7 @@
   "description": "Convert a number in roman numeral format",
   "author": "Damian Suarez <rdsuarez@gmail.com>",
   "twitter": "@retrofox",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [],
   "dependencies": {},
   "development": {},
